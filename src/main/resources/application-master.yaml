@@ -1,0 +1,10 @@
+server:
+  port: 6071
+spring:
+  data:
+    mongodb:
+      host: 172.30.3.165
+      port: 27017
+      database: fund
+      username: fundAppropriation
+      password: fundAppropriation
